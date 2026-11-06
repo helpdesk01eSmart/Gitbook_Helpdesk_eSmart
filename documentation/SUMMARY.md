@@ -17,6 +17,7 @@
 * [📭 Cách khôi phục Mail trong Outlook](moi-thu-ve-mail/cach-khoi-phuc-mail-trong-outlook.md)
 * [⌨️ Hướng dẫn backup Outlook](moi-thu-ve-mail/huong-dan-backup-outlook.md)
 * [💡 Hướng dẫn cấu hình webmail trên Bitrix24](moi-thu-ve-mail/huong-dan-cau-hinh-webmail-tren-bitrix24.md)
+* [🐔 Hướng dẫn fix lỗi khi file Outlook pst bị app khác chiếm quyền](moi-thu-ve-mail/huong-dan-fix-loi-khi-file-outlook-pst-bi-app-khac-chiem-quyen.md)
 * [🏣 Hướng dẫn sửa Outlook bị lỗi không mở được](moi-thu-ve-mail/huong-dan-sua-outlook-bi-loi-khong-mo-duoc.md)
 
 ## HỆ THỐNG LƯU TRỮ CHUNG
